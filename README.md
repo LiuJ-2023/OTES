@@ -8,7 +8,7 @@ OTES is a research-oriented framework for evolutionary multi-objective optimizat
 - **Optimal transport mapping**: Learn decision-space mappings between source and target populations.
 - **Multiple transfer strategies**: Built-in support for autoencoder, probabilistic model, and optimal transport hybrids.
 - **Self-contained package**: All algorithms and utilities live in the `otes` module—no external repositories required.
-- **Benchmark-ready**: Includes modified DTLZ (mDTLZ) and inverted DTLZ (InvDTLZ) suites for evaluation.
+- **Benchmark-ready**: Includes modified DTLZ (mDTLZ) and modified inverted DTLZ (mDTLZ$^{-1}$) suites for evaluation.
 
 ## Supported Algorithms
 | Algorithm | Description |

@@ -26,7 +26,7 @@ from otes import NSGA2_OT, NSGA2_AE, NSGA2_MOTrEO, NSGA2_MOTrEO_OT
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/OTES.git
+git clone https://github.com/LiuJ-2023/OTES.git
 cd OTES
 
 # Install dependencies

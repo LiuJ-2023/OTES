@@ -31,9 +31,6 @@ cd OTES
 
 # Install dependencies
 pip install -r requirements.txt
-
-# (Optional) verify imports
-python test_imports.py
 ```
 
 ### Requirements

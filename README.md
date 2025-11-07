@@ -153,10 +153,8 @@ Contributions are welcome! If you plan to submit pull requests:
 This project is released under the MIT License. See `LICENSE` for details.
 
 ## Citation
-@ARTICLE{11214262,
-  
-  author={Liu, Jiao and Liu, Weiming and En, Joel Tay Wei and Chen, Caishun and Tan, Puay Siew and Ong, Yew-Soon},
-  
+@ARTICLE{11214262,   
+  author={Liu, Jiao and Liu, Weiming and En, Joel Tay Wei and Chen, Caishun and Tan, Puay Siew and Ong, Yew-Soon},  
   journal={IEEE Transactions on Evolutionary Computation}, 
   
   title={Optimal Transport-Based Distributional Pairing in Transfer Multiobjective Optimization}, 

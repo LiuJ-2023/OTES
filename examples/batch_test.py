@@ -132,10 +132,8 @@ def run_single_test(problem_class, problem_params, source_params=None,
     # Create source problem (slightly different)
     if source_params is None:
         source_params = problem_params.copy()
-        if 'delta2' in source_params:
-            source_params['delta2'] = source_params.get('delta2', 0) + 0.1
-        else:
-            source_params['delta2'] = 0.1
+        source_params['delta1'] = 0.7
+        source_params['delta2'] = 0.25
     
     source_problem = problem_class(**source_params)
     

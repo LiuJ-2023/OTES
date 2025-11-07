@@ -99,7 +99,7 @@ def run_comparison():
     pymoo_problem = OptimizationProblem(problem)
     
     # Generate source data (similar task)
-    source_problem = mDTLZ2(obj_num=3, n_var=10, delta1=1, delta2=0.1)  # Slightly different
+    source_problem = mDTLZ2(obj_num=3, n_var=10, delta1=0.7, delta2=0.25)  # type: ignore[arg-type]
     source_data = generate_source_data(source_problem, n_generations=50, pop_size=100)
     
     # Run standard NSGA-II

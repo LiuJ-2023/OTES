@@ -1,0 +1,8 @@
+numpy>=1.20.0
+torch>=1.9.0
+pymoo>=0.6.0
+POT>=0.8.0
+torchmin>=0.0.2
+matplotlib>=3.3.0
+scipy>=1.7.0
+

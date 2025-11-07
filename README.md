@@ -154,19 +154,12 @@ This project is released under the MIT License. See `LICENSE` for details.
 
 ## Citation
 @ARTICLE{11214262,   
-  author={Liu, Jiao and Liu, Weiming and En, Joel Tay Wei and Chen, Caishun and Tan, Puay Siew and Ong, Yew-Soon},  
-  journal={IEEE Transactions on Evolutionary Computation}, 
-  
-  title={Optimal Transport-Based Distributional Pairing in Transfer Multiobjective Optimization}, 
-  
-  year={2025},
-  
-  volume={},
-  
-  number={},
-  
-  pages={1-1},
-  
-  keywords={Optimization;Sorting;Manufacturing;Convergence;Vectors;Search problems;Linear programming;Faces;Artificial intelligence;Pareto optimization;Transfer optimization;multiobjective optimization;optimal transport;solution representation alignment},
-  
-  doi={10.1109/TEVC.2025.3624132}}
+     author={Liu, Jiao and Liu, Weiming and En, Joel Tay Wei and Chen, Caishun and Tan, Puay Siew and Ong, Yew-Soon},  
+     journal={IEEE Transactions on Evolutionary Computation},  
+     title={Optimal Transport-Based Distributional Pairing in Transfer Multiobjective Optimization},    
+     year={2025},    
+     volume={},    
+     number={},    
+     pages={1-1},    
+     keywords={Optimization;Sorting;Manufacturing;Convergence;Vectors;Search problems;Linear programming;Faces;Artificial intelligence;Pareto optimization;Transfer optimization;multiobjective optimization;optimal transport;solution representation alignment},  
+     doi={10.1109/TEVC.2025.3624132}}

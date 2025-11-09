@@ -144,12 +144,6 @@ for gen in res.history:
 source_data = (decision_history, objective_history)
 ```
 
-## Contributing
-Contributions are welcome! If you plan to submit pull requests:
-1. Fork the repository and create a feature branch.
-2. Follow PEP8 where practical and include docstrings for new APIs.
-3. Provide minimal examples or tests demonstrating new features or fixes.
-
 ## License
 This project is released under the MIT License. See `LICENSE` for details.
 
